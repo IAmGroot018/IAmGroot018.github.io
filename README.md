@@ -1,2 +1,3 @@
 # IAmGroot018.github.io
-First Project
+This is ,y first Git repository.
+Author - Tathya Ribadiya
